@@ -1,0 +1,12 @@
+# 本地配置与运行产物（不要进仓库）
+config.json
+state.json
+.last_refresh
+signer.log
+
+# 录制的模板图（每台机器/每个微信版本都要重录）
+templates/
+
+# Python
+__pycache__/
+*.pyc

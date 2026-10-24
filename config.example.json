@@ -1,0 +1,27 @@
+{
+  "lat": 30.0,
+  "lon": 104.0,
+  "jitter_deg": 3e-05,
+  "interval": 5,
+  "refresh_every": 660,
+  "class_hours": [
+    7,
+    23
+  ],
+  "min_refresh_gap": 60,
+  "chat_window_title": "文件传输助手",
+  "trigger_mode": "service_menu",
+  "card_wait": 3.0,
+  "auth_wait": 8,
+  "templates_dir": "templates",
+  "match_confidence": 0.8,
+  "locate_timeout": 10,
+  "browser_title_keywords": [
+    "微助教",
+    "teachermate"
+  ],
+  "notify_webhook": "",
+  "beep_on": true,
+  "state_file": "state.json",
+  "log_file": "signer.log"
+}
